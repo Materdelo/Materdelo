@@ -1,14 +1,13 @@
 <div align=center>
 
-### Hi there 👋
-### I'm Mateusz, Passionate Java/FullStack developer
+### Hi there 👋 I'm Mateusz, passionate about Java/FullStack development! 🚀
 
 ---
 
 ### 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&color=orange) 
-![Spring Badge](https://img.shields.io/badge/Spring-darkgreen?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Badge](https://img.shields.io/badge/Spring_Security-darkgreen?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-darkgreen?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring%20Security-darkgreen?style=for-the-badge&logo=spring-security&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,9 +32,12 @@
 
 ---
 
-### 🔭 Current Project
+### 🔭 Current Project  
+I'm actively working on **Kamann**, a dance reservation system for [Dance-reservation-system](https://github.com/Dance-reservation-system). 🚀  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dance-reservation-system&repo=Kamann&theme=dark&border_color=000000)](https://github.com/Dance-reservation-system/Kamann)
+
 
 ---
    
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=Materdelo&theme=darcula&hide_border=true&background=FFFFFF00">
+![GitHub Streak](https://streak-stats.demolab.com?user=Materdelo&theme=dark&hide_border=true&mode=weekly)
