@@ -1,6 +1,6 @@
 <div align=center>
 
-### Hi there 👋 I'm Mateusz, passionate about Java/FullStack development! 🚀
+### Hi there 👋 I'm Mateusz, passionate about Java development! 🚀
 
 ---
 
