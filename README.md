@@ -45,6 +45,4 @@ I'm actively working on **Kamann**, a dance reservation system for [Dance-reserv
    
 ![GitHub Streak](https://streak-stats.demolab.com?user=Materdelo&theme=dark&hide_border=true&mode=weekly)
 
-![Materdelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Materdelo&theme=dark&hide_border=true)
-
 </div>
