@@ -8,6 +8,7 @@
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&color=orange)
 ![Spring](https://img.shields.io/badge/Spring-darkgreen?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-darkgreen?style=for-the-badge&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -18,6 +19,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-45C4B0?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/-Maven-red?style=for-the-badge&logo=apacheMaven)
 ![Gradle](https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=gradle&logoColor=lightblue)
