@@ -1,6 +1,8 @@
-<div align=center>
+<div align="center">
 
-### Hi there 👋 I'm Mateusz, passionate about Java development! 🚀
+# 👋 Hi there, I'm Mateusz!
+
+🚀 Passionate about **Java development**, backend engineering, and building efficient systems.
 
 ---
 
@@ -17,12 +19,12 @@
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-45C4B0?style=for-the-badge&logo=testing-library&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-000000?style=for-the-badge&logo=domain-driven-design&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/-Maven-red?style=for-the-badge&logo=apacheMaven)
 ![Gradle](https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=gradle&logoColor=lightblue)
@@ -34,17 +36,20 @@
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
 ![Windows](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows11&logoColor=white)
+
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ---
 
-### 🔭 Current Project
-I'm actively working on **Kamann**, a dance reservation system for [Dance-reservation-system](https://github.com/Dance-reservation-system/Reservation-system). 🚀
+## 🔭 Current Project
+
+I'm actively working on **Kamann**, a dance reservation system.  
+Check it out 👉 [Dance-reservation-system/Reservation-system](https://github.com/Dance-reservation-system/Reservation-system)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dance-reservation-system&repo=Reservation-system&theme=dark&border_color=000000)](https://github.com/Dance-reservation-system/Reservation-system)
-
 
 ---
 
