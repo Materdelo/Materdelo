@@ -52,6 +52,4 @@ Check it out 👉 [Dance-reservation-system/Reservation-system](https://github.c
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Materdelo&theme=dark&hide_border=true&mode=weekly)
-
 </div>
