@@ -45,10 +45,9 @@
 
 ## 🔭 Current Project
 
-I'm actively working on **Kamann**, a dance reservation system.  
-Check it out 👉 [Dance-reservation-system/Reservation-system](https://github.com/Dance-reservation-system/Reservation-system)
+I'm actively working on **MyInvestIQ**, a web app for managing projects between investors and contractors.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dance-reservation-system&repo=Reservation-system&theme=dark&border_color=000000)](https://github.com/Dance-reservation-system/Reservation-system)
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Dance-reservation-system&repo=Reservation-system&theme=dark&border_color=000000&#41;]&#40;https://github.com/Dance-reservation-system/Reservation-system&#41;)
 
 ---
 
