@@ -47,8 +47,9 @@
 ## 🔭 Current Project
 
 - I'm currently involved in a **commercial project** built with **Java & Vaadin**, focusing on backend development.
+- I'm also working on **MyInvestIQ**, a web app for managing projects between investors and contractors.
 
-[//]: # (- I'm also working on **MyInvestIQ**, a web app for managing projects between investors and contractors.)
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=MyInvestIQ&theme=dark&border_color=000000&#41;]&#40;https://github.com/F1iper/MyInvestIQ&#41;)
 
 ---
 
