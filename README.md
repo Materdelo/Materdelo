@@ -46,7 +46,6 @@
 
 ## 🔭 Current Project
 
-- I'm currently involved in a **commercial project** built with **Java & Vaadin**, focusing on backend development.
 - I'm also working on **MyInvestIQ**, a web app for managing projects between investors and contractors.
 ---
 
