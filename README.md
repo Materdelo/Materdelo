@@ -47,6 +47,7 @@
 ## 🔭 Current Project
 
 - I'm also working on **MyInvestIQ**, a web app for managing projects between investors and contractors.
+
 ---
 
 </div>
