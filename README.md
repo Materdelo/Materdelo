@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/-Git-3f4441?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-3f4441?style=for-the-badge&logo=github)
 
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
