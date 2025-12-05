@@ -45,8 +45,7 @@
 
 ## 🔭 Current Project
 
-- I'm working on **MyInvestIQ**, a web app for managing projects between investors and contractors.
-
+[//]: # (- I'm working on **MyInvestIQ**, a web app for managing projects between investors and contractors.)
 ---
 
 </div>
