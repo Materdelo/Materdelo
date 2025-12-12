@@ -45,7 +45,7 @@
 
 ## 🔭 Current Project
 
-[//]: # (- I'm working on **MyInvestIQ**, a web app for managing projects between investors and contractors.)
+- I am currently developing a commercial loyalty card management platform for BBC, including customer accounts, points handling, and system integrations.
 ---
 
 </div>
