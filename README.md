@@ -45,7 +45,7 @@
 
 ## 🔭 Current Project
 
-- I am currently developing a commercial loyalty card management platform for BBC, including customer accounts, points handling, and system integrations.
+[//]: # (- I am currently developing a commercial loyalty card management platform for BBC, including customer accounts, points handling, and system integrations.)
 ---
 
 </div>
